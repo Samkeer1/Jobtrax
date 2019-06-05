@@ -1,6 +1,6 @@
 # Jobtrax
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+A job tracking app, by the unemployed, for the unemployed!
 
 ## Development server
 
