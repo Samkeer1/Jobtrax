@@ -1,6 +1,6 @@
 # Jobtrax
 
-Jobtrax is by the unemployed, for the unemployed!
+A job tracking app, by the unemployed, for the unemployed!
 
 ## Development server
 
